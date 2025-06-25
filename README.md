@@ -36,13 +36,7 @@
  <a href="https://www.facebook.com/sarowarjahan.siam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> 
 
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Siamsarowar007"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 
 ## 🍃 recent contributions
 
@@ -53,5 +47,13 @@
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Siamsarowar007"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
