@@ -41,15 +41,6 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
  <a href="https://www.facebook.com/sarowarjahan.siam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> 
 
 
-## 🍃 recent contributions
-
-<p >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 
 ### Badges
@@ -81,4 +72,15 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/shihab.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+## 🍃 recent contributions
+
+<p >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
