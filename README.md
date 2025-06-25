@@ -41,30 +41,6 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
  <a href="https://www.facebook.com/sarowarjahan.siam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> 
 
 
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p align="center">
- <a href="http://www.github.com/shihabuddin-dev" align="center"><img src="https://github-readme-stats.vercel.app/api?username=shihabuddin-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="shihabuddin-dev's GitHub stats" /></a>
-</p>
-
-
-<p align="center">
-<a href="http://www.github.com/Siamsarowar007"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Siamsarowar007&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Siamsarowar007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siamsarowar007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Siamsarowar007/js-book" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Siamsarowar007&repo=js-book&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Siamsarowar007/js-solved" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Siamsarowar007&repo=js-solved&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
@@ -77,7 +53,7 @@ I’m a MERN Stack developer from Bangladesh with a passion for building modern,
 
 <p >
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siamsarowar007/Siamsarowar007/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
   </picture>
