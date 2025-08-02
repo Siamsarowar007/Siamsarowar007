@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/rKD8g8mZ/Dark-Gray-Simple-Business-Consultant-Linkedin-Banner.png" alt="Profile Banner" width="100%" />
+<img src="https://i.ibb.co/SX4x21jt/github-Banner.png" alt="Profile Banner" width="100%" />
 
 <h1 align="center">Hi!👋 I'm Saroar Jahan Siam </h1>
 <p align="center">
