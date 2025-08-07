@@ -19,15 +19,19 @@
 
 ---
 #  GitHub Stats
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">GitHub Stats:</span></h2>
-<p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Siamsarowar007&theme=neon&hide_border=true&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Siamsarowar007&theme=neon&hide_border=false)](https://git.io/streak-stats)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siamsarowar007&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siamsarowar007&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=Siamsarowar007&theme=neon&hide_border=false" alt="GitHub Streak" />
+  </a>
+
+</div>
+
 
 
 ## 🚀 Current Activities
