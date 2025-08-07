@@ -58,8 +58,8 @@ I focus on delivering responsive, accessible, and performant web applications th
   
 
 
+## :computer: Technologies
 
-## :computer: GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siamsarowar007&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
