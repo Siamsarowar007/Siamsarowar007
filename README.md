@@ -6,6 +6,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Contionus+Learner;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer" alt="Typing SVG" /></a>
 </p>
 
+#💫 About Me
+I'm a passionate Frontend Developer based in Mymensingh, Bangladesh, dedicated to crafting clean, efficient code and building intuitive user experiences.
+
+Recently, I completed a full-stack project called Petiva, where I worked extensively on both design and development. The project was built using the MERN stack — React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, and integrated with AOS for smooth animations.
+
+I focus on delivering responsive, accessible, and performant web applications that balance aesthetics with functionality. I'm always open to learning, growing, and collaborating on innovative projects.
+
+
 ## 🧠 Known for:
 
 - Writing clean, scalable, production-ready code
@@ -33,19 +41,6 @@
 </div>
 
 
-
-## 🚀 Current Activities
-<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [sarowarjahansiam007@gmail.com](mailto:sarowarjahansiam007@gmail.com)
-* 🚀  I'm currently working on [ProFast Services]
-* 🧠  I'm learning Next.js & TypeScript
-* 🤝  I'm open to collaborating on Next.js Projects
-* ⚡  I would appreciate any suggestions on how I can improve myself!
-
----
 ### Skills
 
 <p align="">
