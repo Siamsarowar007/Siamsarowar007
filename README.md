@@ -26,7 +26,7 @@ I focus on delivering responsive, accessible, and performant web applications th
 - WhatsApp: +8801687651845
 ---
 
-### Socials
+## 🌐 Socials:
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/sarowarjahan.siam)](https://www.facebook.com/sarowarjahan.siam)
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/Siamsarowar007)
@@ -71,7 +71,6 @@ I focus on delivering responsive, accessible, and performant web applications th
 </div>
 
 
-
 ## 🍃 recent contributions
 
 <p >
@@ -81,13 +80,5 @@ I focus on delivering responsive, accessible, and performant web applications th
     <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Siamsarowar007"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
