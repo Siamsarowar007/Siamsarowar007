@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Contionus+Learner;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer" alt="Typing SVG" /></a>
 </p>
 
-#💫 About Me
+## 💫 About Me
 I'm a passionate Frontend Developer based in Mymensingh, Bangladesh, dedicated to crafting clean, efficient code and building intuitive user experiences.
 
 Recently, I completed a full-stack project called Petiva, where I worked extensively on both design and development. The project was built using the MERN stack — React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, and integrated with AOS for smooth animations.
@@ -26,6 +26,21 @@ I focus on delivering responsive, accessible, and performant web applications th
 - WhatsApp: +8801687651845
 
 ---
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=habib-utsho&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
 #  GitHub Stats
 
 <div align="center">
