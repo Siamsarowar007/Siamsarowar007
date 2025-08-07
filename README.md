@@ -8,9 +8,7 @@
 
 ## 💫 About Me
 I'm a passionate Frontend Developer based in Mymensingh, Bangladesh, dedicated to crafting clean, efficient code and building intuitive user experiences.
-
 Recently, I completed a full-stack project called Petiva, where I worked extensively on both design and development. The project was built using the MERN stack — React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, and integrated with AOS for smooth animations.
-
 I focus on delivering responsive, accessible, and performant web applications that balance aesthetics with functionality. I'm always open to learning, growing, and collaborating on innovative projects.
 
 
@@ -28,12 +26,14 @@ I focus on delivering responsive, accessible, and performant web applications th
 
 ## 🌐 Socials:
 
+<div align="center">
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/sarowarjahan.siam)](https://www.facebook.com/sarowarjahan.siam)
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/Siamsarowar007)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/siam_sarowar)](https://www.instagram.com/siam_sarowar/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroar-jahan-siam/)](https://www.linkedin.com/in/saroar-jahan-siam/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@entrptaher/)](https://medium.com)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarowarjahansiam007+github@gmail.com)](mailto:sarowarjahansiam007+github@gmail.com)
+</div>
 
 
 ## :computer: Technologies
@@ -61,7 +61,7 @@ I focus on delivering responsive, accessible, and performant web applications th
   
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=Abhamid3311&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siamsarowar007&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
