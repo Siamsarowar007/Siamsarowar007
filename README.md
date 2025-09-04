@@ -69,14 +69,6 @@ I focus on delivering responsive, accessible, and performant web applications th
   </a>
 </p>
 
-## 🍃 recent contributions
 
-<p >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siamsarowar007/Siamsarowar007/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mezbaaaa/mezbaaaa/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
