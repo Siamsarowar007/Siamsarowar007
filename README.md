@@ -56,8 +56,6 @@ I focus on delivering responsive, accessible, and performant web applications th
 </p>
 <br
   
-
-
 ## :computer: GitHub Stats
 
 
