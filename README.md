@@ -6,6 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Contionus+Learner;Learning+Next.js+%26+TypeScript;JS+%26+React+Developer" alt="Typing SVG" /></a>
 </p>
 
+
 ## 💫 About Me
 I'm a passionate Frontend Developer based in Mymensingh, Bangladesh, dedicated to crafting clean, efficient code and building intuitive user experiences.
 Recently, I completed a full-stack project called Petiva, where I worked extensively on both design and development. The project was built using the MERN stack — React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, and integrated with AOS for smooth animations.
