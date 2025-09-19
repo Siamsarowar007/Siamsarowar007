@@ -8,7 +8,6 @@
 
 ## 💫 About Me
 
-
 I'm a passionate Frontend Developer based in Mymensingh, Bangladesh, dedicated to crafting clean, efficient code and building intuitive user experiences.
 Recently, I completed a full-stack project called Petiva, where I worked extensively on both design and development. The project was built using the MERN stack — React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, and integrated with AOS for smooth animations.
 I focus on delivering responsive, accessible, and performant web applications that balance aesthetics with functionality. I'm always open to learning, growing, and collaborating on innovative projects.
